@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Mỹ phẩm Cherry Đào - chăm sóc da, chăm sóc body, chăm sóc tóc tự nhiên - myphamcherrydao.vn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Với nguồn nguyên liệu thiên nhiên và công nghệ được cải tiến từ Hàn Quốc. Mẫu mã sang trọng, giá thành hợp lí. Bên cạnh đó, các dòng sản phẩm `Mỹ phẩm Cherry Đào <https://myphamcherrydao.vn/>`_ đã được BYT cấp phép lưu hành trên toàn quốc, kiểm chứng an toàn và hiệu quả với hàng ngàn phụ nữ Việt Nam trong 10 năm qua. Hứa hẹn sẽ thay đổi và tái tạo làn da bạn rạng rỡ, tự tin và tràn đầy sức sống.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: Shop Vi'House, Tân Hà, Duyên Hà, Thanh trì, Hà Nội. 
 
-   This project is under active development.
+Phone: 0971318899. 
 
-Contents
---------
+Email: Thuyvi25884@gmail.com. 
 
-.. toctree::
+Website: https://myphamcherrydao.vn/
 
-   usage
-   api
+#myphamcherrydao #trangchumyphamcherrydao #dangkymyphamcherrydao #linkmyphamcherrydao
